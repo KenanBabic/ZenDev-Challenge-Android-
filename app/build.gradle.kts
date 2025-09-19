@@ -66,6 +66,7 @@ dependencies {
     implementation(libs.converter.gson)
     implementation(libs.gson)
     implementation(libs.logging.interceptor)
+    implementation(libs.hilt.navigation.compose)
 
 
     testImplementation(libs.junit)
